@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 78455a93b1b91564098c74bea7f864a8
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    4300000: HornCock
+    4300002: HornSeat
+    4300004: HornCono
+    4300006: HornCon3
+    4300008: HornBra2
+    4300010: HormBtir
+    4300012: HornBge2
+    4300014: HornGear
+    4300016: HornBlig
+    4300018: HornCon2
+    4300020: HornEsta
+    4300022: HornEvt
+    4300024: HornEvt2
+    4300026: Hornfus1
+    4300028: HornFus2
+    4300030: HornFus6
+    4300032: HornFuse
+    4300034: HornGea2
+    4300036: HornGrid
+    4300038: HornGrid0
+    4300040: 'HornInle '
+    4300042: HornLfl2
+    4300044: HornLfl20
+    4300046: HornLfl3
+    4300048: HornLfla
+    4300050: HornLfue
+    4300052: HornLig3
+    4300054: HornLRud
+    4300056: HornLrud
+    4300058: HornMav2
+    4300060: HornMave
+    4300062: HornMis2
+    4300064: HornMis3
+    4300066: HornMisi
+    4300068: HornNozz
+    4300070: HornRada
+    4300072: HornRfl3
+    4300074: HornRfla
+    4300076: HornRlig
+    4300078: HornRRud
+    4300080: HornRrud
+    4300082: 'HornRudd '
+    4300084: HornStee
+    4300086: HornTire
+    4300088: HornWin2
+    4300090: 'HornWing '
+    4300092: HornWsup
+    4300094: HornWsup0
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

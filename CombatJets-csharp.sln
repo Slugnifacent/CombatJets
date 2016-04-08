@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{3D0C9DC4-6FAD-9A96-0062-4D4351FF1D14}") = "CombatJets", "Assembly-CSharp-firstpass-vs.csproj", "{B60EDB54-0F2D-276B-3260-468E1838C876}"
+EndProject
+Project("{3D0C9DC4-6FAD-9A96-0062-4D4351FF1D14}") = "CombatJets", "Assembly-CSharp-vs.csproj", "{69C38E2B-0718-AC7E-5ECA-8B64C84232AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60EDB54-0F2D-276B-3260-468E1838C876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60EDB54-0F2D-276B-3260-468E1838C876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60EDB54-0F2D-276B-3260-468E1838C876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60EDB54-0F2D-276B-3260-468E1838C876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C38E2B-0718-AC7E-5ECA-8B64C84232AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C38E2B-0718-AC7E-5ECA-8B64C84232AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C38E2B-0718-AC7E-5ECA-8B64C84232AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C38E2B-0718-AC7E-5ECA-8B64C84232AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
